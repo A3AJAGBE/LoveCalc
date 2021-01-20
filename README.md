@@ -4,7 +4,7 @@
 #Day3 of #100DaysOfCode
 
 
-## Mini-Project or Exercise 1 - Love (Compatibility) Calculator
+## Mini-Project or Exercise - Love (Compatibility) Calculator
 An application that checks the compatibility between two people, using the method recommended by BuzzFeed.
 
 
