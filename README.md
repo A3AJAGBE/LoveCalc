@@ -8,6 +8,6 @@
 An application that checks the compatibility between two people, using the method recommended by BuzzFeed.
 
 
-![Demo](https://github.com/A3AJAGBE/bmi-calc/blob/main/bmi-calc-video.gif)
+![Demo](https://github.com/A3AJAGBE/LoveCalc/blob/main/LoveCalc-video.gif)
 
-[Project](https://github.com/A3AJAGBE/treasure-hunt)
+Check out the final project of the day: [Project](https://github.com/A3AJAGBE/treasure-hunt)
